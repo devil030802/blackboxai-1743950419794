@@ -1,0 +1,7 @@
+tkinter
+sqlite3
+pandas
+reportlab
+ttkthemes
+tkcalendar
+pyinstaller
